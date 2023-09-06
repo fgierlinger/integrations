@@ -3,7 +3,7 @@
   changes:
     - description: remove redudant `.logs` suffix from dataset name
       type: enhancement
-      link: https://github.com/elastic/integrations/pull/XXXX
+      link: https://github.com/elastic/integrations/pull/7670
 
 - version: 0.1.0
   changes:
